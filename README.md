@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:450a0a,100:b91c1c&height=180&section=header&text=Hi,%20I'm%20Huang%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Hi, I'm Huang" />
 
 <a href="https://huang-portfolio.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=EF4444&center=true&vCenter=true&width=520&lines=Red+Teamer;Offensive+security+%26+adversary+emulation;Also+on+the+blue+side+%F0%9F%9B%A1%EF%B8%8F;Always+learning+something+new" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=EF4444&center=true&vCenter=true&width=520&lines=Red+team;Offensive+security+%26+adversary+emulation;Also+on+the+blue+side+%F0%9F%9B%A1%EF%B8%8F;Always+learning+something+new" alt="Typing intro" />
 </a>
 
 <p>
@@ -19,7 +19,7 @@
 
 ## 🧑‍💻 About me
 
-- 🔴 I'm a **red teamer**: I think like an attacker to find the weaknesses before someone else does.
+- 🔴 I'm a **red team**: I think like an attacker to find the weaknesses before someone else does.
 - 🔵 I also work on the **blue team** side, building tools that help defenders see what an attacker actually did.
 - 🧰 I write my own security tooling in **Python** and **C++**.
 - 📚 I pick things up fast, and I'm always learning something new.
