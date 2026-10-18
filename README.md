@@ -21,7 +21,6 @@
 
 - 🔴 I'm a **red team**: I think like an attacker to find the weaknesses before someone else does.
 - 🔵 I also work on the **blue team** side, building tools that help defenders see what an attacker actually did.
-- 🧰 I write my own security tooling in **Python** and **C++**.
 - 📚 I pick things up fast, and I'm always learning something new.
 - 🌐 More about me and my work: **[huang-portfolio.vercel.app](https://huang-portfolio.vercel.app/)**
 
